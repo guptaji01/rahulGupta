@@ -1,0 +1,36 @@
+.flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.aling-center{
+    align-items: center;
+}
+.text-center{
+    text-align: center;
+}
+.flex-wrap{
+    flex-wrap: wrap;
+}
+.direction-column{
+    flex-direction: column;
+}
+.gap-1{
+    gap: 1rem;
+}
+.c-gap-2{
+    column-gap: 5rem;
+}
+
+:root{
+    --primary: #ffffff;
+    --secondary: #efefef;
+    --ternary: #2857a4;
+    --color-orange: #eb822d;
+    --color-gray: gray;
+}
+
